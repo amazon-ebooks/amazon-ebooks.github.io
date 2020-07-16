@@ -1284,6 +1284,53 @@ section.lazy-placeholder:after {
 .cid-s4UkqjJLLR .panel-text {
   color: #ffffff;
 }
+.cid-s4VKoUvVHT {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  position: relative;
+  background-color: #073b4c;
+}
+.cid-s4VKoUvVHT .card {
+  border-radius: 0px;
+  margin-bottom: -1px;
+}
+.cid-s4VKoUvVHT .card .card-header {
+  border-radius: 0px;
+  border: 0px;
+  padding: 0;
+}
+.cid-s4VKoUvVHT .card .card-header a.panel-title {
+  margin-bottom: 0;
+  font-style: normal;
+  font-weight: 500;
+  display: block;
+  text-decoration: none !important;
+  margin-top: -1px;
+  line-height: normal;
+}
+.cid-s4VKoUvVHT .card .card-header a.panel-title:focus {
+  text-decoration: none !important;
+}
+.cid-s4VKoUvVHT .card .card-header a.panel-title h4 {
+  padding: 1.3rem 2rem;
+  border: 1px solid #dfdfdf;
+  margin-bottom: 0;
+}
+.cid-s4VKoUvVHT .card .card-header a.panel-title h4 .sign {
+  padding-right: 1rem;
+}
+.cid-s4VKoUvVHT .card .panel-body {
+  color: #767676;
+}
+.cid-s4VKoUvVHT H2 {
+  color: #ffffff;
+}
+.cid-s4VKoUvVHT H4 {
+  color: #ffffff;
+}
+.cid-s4VKoUvVHT .panel-text {
+  color: #ffffff;
+}
 .cid-s4TXjpHGpa {
   background-color: #0f7699;
   background: linear-gradient(45deg, #0f7699, #232323);
