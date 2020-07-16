@@ -1226,3 +1226,28 @@ section.lazy-placeholder:after {
 .cid-s4PGq4YhN2 P {
   color: #767676;
 }
+.cid-s4TXjpHGpa {
+  background-color: #0f7699;
+  background: linear-gradient(45deg, #0f7699, #232323);
+}
+.cid-s4TXjpHGpa .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-s4TXjpHGpa .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-s4TXjpHGpa .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-s4TXjpHGpa .mbr-text {
+    text-align: center;
+  }
+}
