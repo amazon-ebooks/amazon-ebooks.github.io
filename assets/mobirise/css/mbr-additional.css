@@ -1871,3 +1871,43 @@ section.lazy-placeholder:after {
 .cid-s5hx9fyWwi .mbr-section-btn {
   color: #ffffff;
 }
+.cid-s5psMHjVZq {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #0f7699;
+  background: linear-gradient(45deg, #0f7699, #232323);
+}
+.cid-s5psMHjVZq .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-s5psMHjVZq .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-s5psMHjVZq .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-s5psMHjVZq .mbr-text {
+    text-align: center;
+  }
+}
+.cid-s5psMIqlhM {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-image: url("../../../assets/images/mbr-1.jpg");
+}
+.cid-s5psMIqlhM P {
+  color: #767676;
+}
+.cid-s5psMIqlhM .mbr-text,
+.cid-s5psMIqlhM .mbr-section-btn {
+  color: #232323;
+  text-align: left;
+}
