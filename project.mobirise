@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Ganhos Altos",
-    "currentPage": "inscricao.html",
+    "currentPage": "global.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -53,7 +53,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "uniqCompNum": 99,
+    "uniqCompNum": 101,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png"
   },
