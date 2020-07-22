@@ -1489,16 +1489,6 @@ section.lazy-placeholder:after {
   color: #232323;
   text-align: left;
 }
-.cid-s518VJEfYK {
-  background-image: url("../../../assets/images/foto12.jpg");
-}
-.cid-s518VJEfYK H3 {
-  color: #232323;
-}
-.cid-s518VJEfYK .mbr-text,
-.cid-s518VJEfYK .mbr-section-btn {
-  color: #232323;
-}
 .cid-s55uwRrwYk {
   padding-top: 15px;
   padding-bottom: 15px;
@@ -1910,4 +1900,34 @@ section.lazy-placeholder:after {
 .cid-s5psMIqlhM .mbr-section-btn {
   color: #232323;
   text-align: left;
+}
+.cid-s5tokdh02F {
+  background: linear-gradient(45deg, #efefef, #0f7699);
+}
+@media (min-width: 992px) {
+  .cid-s5tokdh02F .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-s5tokdh02F .mbr-figure {
+    padding-top: 3rem;
+  }
+}
+.cid-s5tokdh02F .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-s5tokdh02F .media-container-row .mbr-figure {
+    padding-left: 0;
+    padding-right: 4rem;
+  }
+}
+.cid-s5tokdh02F .mbr-section-title {
+  color: #232323;
+}
+.cid-s5tokdh02F .mbr-text,
+.cid-s5tokdh02F .mbr-section-btn {
+  color: #232323;
 }
